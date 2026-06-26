@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Daniel de Camargo - Senior Data Engineer" width="100%" />
+</p>
+
 # Daniel de Camargo
 
 ## Senior Data Engineer | Analytics Engineer | Data Visualization Specialist
